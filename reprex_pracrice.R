@@ -15,7 +15,6 @@ penguins |>
 
 ### A REPREX
 library(tidyverse)
-
 warpbreaks |> 
   str_to_lower(wool)
 
@@ -23,8 +22,24 @@ warpbreaks |>
 ### THE FIXING CODE
 # Mutating the new column
 
-warpbreak |> 
-  mutate(wool = str_to_lower(wool))
+
+
+
+
+### A REPREX WITH A SYNTHESIZED DATA FRAME
+library(tidyverse)
+matrix <- tribble(~"character1", ~"number 2",
+    "a", 20,
+    "BBBBBBaaaa", 1,
+    "c", 13)
+
+
+matrix <- matrix |> 
+  mutate(character1 = str_to_lower(character1))
+
+
+
+
 
 
 

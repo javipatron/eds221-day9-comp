@@ -30,5 +30,4 @@ hbr_summary |>
   column_spec(1,bold = TRUE, background = "orange") |> 
   add_header_above(c(" " = 2, "Seedling dimenstions" = 2))
   
-
 ```

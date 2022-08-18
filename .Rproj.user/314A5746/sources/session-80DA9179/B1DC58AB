@@ -3,9 +3,9 @@
     "path": "~/Documents/MEDS/Courses/EDS 221/eds221-day9-comp/reprex_pracrice.R",
     "project_path": "reprex_pracrice.R",
     "type": "r_source",
-    "hash": "152955888",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1660855143957.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,54",
-        "scrollLine": "0"
+        "cursorPosition": "42,0",
+        "scrollLine": "25"
     },
     "folds": "",
-    "lastKnownWriteTime": 1660855175,
+    "lastKnownWriteTime": 1660857250,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1660855175771,
+    "last_content_update": 1660858473681,
     "read_only": false,
     "read_only_alternatives": []
 }
